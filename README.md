@@ -1,6 +1,6 @@
 ### Hi I'm Tatsuki 👋
 <p align="left"> 
-  <a href="https://github.com/yutkat/yutkat/">
+  <a href="https://github.com/iamtatsuki05/iamtatsuki05/">
     <img src="https://komarev.com/ghpvc/?username=iam_tatsuki05" alt="Tatsuki" />
   </a>
   <a href="http://twitter.com/iam_tatsuki05">
@@ -9,7 +9,7 @@
   <a href="https://github.com/iamtatsuki05">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/yutkat">
+  <a href="http://qiita.com/iam_tatsuki05">
     <img height="20" src="https://qiita-badge.apiapi.app/s/iam_tatsuki05/posts.svg" />
   </a>
   <//qiita.com/iam_tatsuki05">
