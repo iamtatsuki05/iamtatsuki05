@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tatsuki</h1>
 
 ### Status
-[![Tatsuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtatsuki05&theme=vue-dark&show_icons=true)](https://github.com/iamtatsuki05/README)
+[![Tatsuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtatsuki05&theme=vue-dark&show_icons=true)](https://github.com/iamtatsuki05/iamtatsuki05)
 
 ---
 
 ### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtatsuki05&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/iamtatsuki05/README)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtatsuki05&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/iamtatsuki05/iamtatsuki05)
 
 ---
 
