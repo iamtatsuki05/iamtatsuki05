@@ -3,7 +3,7 @@
 ### Status
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtatsuki05&theme=radical&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iamtatsuki05&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iamtatsuki05&theme=radical&show_icons=true&count_private=true&include_all_commits=false" />
 </p>
 <p align="center"> 
   <img alt="summary-card" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamtatsuki05&theme=radical" />
