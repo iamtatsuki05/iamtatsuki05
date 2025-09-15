@@ -18,4 +18,7 @@
 <a href="https://linkedin.com/in/tatsuki-okada-186362224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatsuki-okada-186362224" height="30" width="40" /></a>
 
 <h3 align="left">My home page</h3>
-- https://iamtatsuki05.github.io/
+
+<a href="https://iamtatsuki05.github.io/" target="_blank">
+  <img src="https://iamtatsuki05.github.io/images/icon.jpeg" alt="icon" width="40" width="40">
+</a>
