@@ -19,7 +19,7 @@
 
 <h3 align="left">My home page</h3>
 
-<a href="https://iamtatsuki05.github.io/" target="_blank">
-  <img src="https://iamtatsuki05.github.io/favicon.ico" alt="icon" width="40" width="40">
+<a href="https://iamtatsuki05.com/" target="_blank">
+  <img src="https://iamtatsuki05.com/favicon.ico" alt="icon" width="40" width="40">
   
 </a>
