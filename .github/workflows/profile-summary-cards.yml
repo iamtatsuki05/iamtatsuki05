@@ -1,0 +1,42 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Generate and publish profile summary cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
+        with:
+          fetch-depth: 1
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@89776cd44fb40c4f7b3e5c2db993728cd700d638 # release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          EXCLUDE: ""
+          AUTO_PUSH: false
+          THEME: radical
+
+      - name: Publish validated snapshot
+        run: >-
+          .github/scripts/publish-profile-summary-cards.sh
+          profile-summary-card-output
+          profile-summary-cards
+          origin
