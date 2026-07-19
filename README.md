@@ -6,7 +6,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats-eta-kohl-90.vercel.app/api?username=iamtatsuki05&theme=radical&show_icons=true&count_private=true&include_all_commits=false" />
 </p>
 <p align="center"> 
-  <img alt="summary-card" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamtatsuki05&theme=radical" />
+  <img alt="summary-card" height="200px" src="https://raw.githubusercontent.com/iamtatsuki05/iamtatsuki05/profile-summary-cards/profile-summary-card-output/radical/0-profile-details.svg" />
 </p>
 
 ---
