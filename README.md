@@ -13,13 +13,11 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/iam_tatsuki05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_tatsuki05" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_tatsuki05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_tatsuki05" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iamtatsuki05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamtatsuki05" height="30" width="40" /></a>
-
-<h3 align="left">My home page</h3>
-
-<a href="https://iamtatsuki05.com/" target="_blank">
-  <img src="https://iamtatsuki05.com/favicon.ico" alt="icon" width="40" width="40">
-  
-</a>
+<a href="https://iamtatsuki05.com/" target="_blank"><img align="center" src="https://iamtatsuki05.com/favicon.ico" alt="Home page" height="30" width="30" /></a>
+<a href="https://github.com/iamtatsuki05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iamtatsuki05/iamtatsuki05.github.io/main/public/images/links/github.svg" alt="GitHub" height="30" width="30" /></a>
+<a href="https://x.com/iam_tatsuki05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iamtatsuki05/iamtatsuki05.github.io/main/public/images/links/x.svg" alt="X" height="30" width="30" /></a>
+<a href="https://bsky.app/profile/iamtatsuki05.bsky.social" target="_blank"><img align="center" src="./assets/bluesky.svg" alt="Bluesky" height="30" width="30" /></a>
+<a href="https://www.instagram.com/iam_tatsuki05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iamtatsuki05/iamtatsuki05.github.io/main/public/images/links/instagram.webp" alt="Instagram" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/iamtatsuki05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iamtatsuki05/iamtatsuki05.github.io/main/public/images/links/linkedin.ico" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://huggingface.co/iamtatsuki05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iamtatsuki05/iamtatsuki05.github.io/main/public/images/links/huggingface.svg" alt="Hugging Face" height="30" width="30" /></a>
+</p>
